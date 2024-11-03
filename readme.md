@@ -1,3 +1,7 @@
+I made this web-based system for my mother since she is an experienced tailor. This web-based system is focuses on analyzing the problem faced by the tailors regarding the management of the customer’s data. With this system, tailors are able to track any customer’s information that they want and customers’ could also track any tailors that they want to order with. Apart from that, this web-based system has been developed with the use of Laravel framework that really helps any developers to code the system efficiently and systematically. Apart from this framework, this web-based system also use XAMPP for the web server and PhpMyAdmin for the database. Other than that, Visual Studio Code has also been used in development of this web-based system. Furthermore, this web-based system has also undergo testing to validate the system so that it will work according to the requirements.
+
+This web-based system has used 3 type of testing which are black box testing, white box testing and user acceptance testing. Apart from that, this web-based system’s goal also to enhance the manual management system to become more systematic, efficient and easy to use. Last but not least, the studies and analysis that have been made may help in the development of this system and could help for the future search.
+
 <p align="center"><img src="https://laravel.com/assets/img/components/logo-laravel.svg"></p>
 
 <p align="center">
